@@ -1,4 +1,4 @@
-# 299. Bulls and Cows:
+# Leetcode 299: Bulls and Cows
 class Solution {
 public:
     string getHint(string secret, string guess) {
